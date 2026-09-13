@@ -62,19 +62,19 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.mystery.lslyrics",
-                     "packageName":"LSLyrics",
-                     "packageAuthor":"Mysteryexe",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.mystery.lslyrics.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
                      "package":"com.kernelrw.adytum",
                      "packageName":"Adytum",
                      "packageAuthor":"Kernelrw",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.kernelrw.adytum.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.mystery.lslyrics",
+                     "packageName":"LSLyrics",
+                     "packageAuthor":"Mysteryexe",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.mystery.lslyrics.png"
                   },
                   {
                      "class":"FeaturedPackageView",
