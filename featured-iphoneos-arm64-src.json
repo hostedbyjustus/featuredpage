@@ -76,6 +76,14 @@
                   },
                   {
                      "class":"FeaturedPackageView",
+                     "package":"com.kernelrw.adytum",
+                     "packageName":"Adytum",
+                     "packageAuthor":"Kernelrw",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.kernelrw.adytum.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
                      "package":"com.nahtedetihw.doodle",
                      "packageName":"Doodle",
                      "packageAuthor":"ETHN, MTAC",
@@ -89,14 +97,6 @@
                      "packageAuthor":"Dcsyhi",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/jp.dcsyhi.zetsu.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.anthopak.appaze3",
-                     "packageName":"Appaze 3",
-                     "packageAuthor":"AnthoPak",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.anthopak.appaze3.png"
                   }
                ]
             },
